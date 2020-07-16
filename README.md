@@ -1,4 +1,5 @@
-Ceci est mon test de CI pour Unity
+Ceci est mon test de CI pour Unity avec:
+Lfs installé
 <div align="center">
 <a href="https://github.com/marketplace/actions/unity-actions">
 <img width="800" src="media/UnityActions-Logo.png" alt="Unity Actions">
